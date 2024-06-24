@@ -1,16 +1,17 @@
-# pr4_departure
+## Screenshots
+<div align="center">
+  
+ <img src="https://github.com/Meshva30/pr4_departure/assets/136339359/6f58599e-00e4-4bef-88af-637e4a8dd789" height=500px >
+ <img src="https://github.com/Meshva30/pr4_departure/assets/136339359/f7fcfb59-7f1b-4eb1-b911-134561a59331" height=500px >
+  <img src="https://github.com/Meshva30/pr4_departure/assets/136339359/3e5c6c3d-07be-4bbc-9b3a-86d979a411a2" height=500px >
+   <img src="https://github.com/Meshva30/pr4_departure/assets/136339359/9763d2a6-0093-41e7-9b82-c5832e6d93f1" height=500px >
+    <img src="https://github.com/Meshva30/pr4_departure/assets/136339359/72fe0cac-896b-43df-ae67-a91bd4aeb589" height=500px >
+     <img src="https://github.com/Meshva30/pr4_departure/assets/136339359/d7e07102-3afb-419d-b062-246195a5d573" height=500px >
+    
 
-A new Flutter project.
+</div>
 
-## Getting Started
+##Video
 
-This project is a starting point for a Flutter application.
+https://github.com/Meshva30/pr4_departure/assets/136339359/04826739-3c90-4738-b9bd-335983ee7d7d
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
