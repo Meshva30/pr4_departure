@@ -1,3 +1,15 @@
+
+# Doha App
+
+Doha App is a mobile application built with Flutter that provides a collection of Doha (traditional Hindi couplets) along with their meanings in Hindi. The app features a light/dark theme, the ability to favorite Doha, and an option to change the language of the meaning.
+
+## Features
+
+- Display a list of Doha with their meanings in Hindi.
+- Toggle between light and dark themes.
+- Mark your favorite Doha for quick access.
+- Change the language of the meaning.
+
 ## Screenshots
 <div align="center">
   
